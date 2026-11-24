@@ -1,0 +1,6 @@
+{
+  "name": "Tote'Alley Yours",
+  "description": "Personalised custom tote bag studio and curated ready-made canvas tote collection. Your bag, your rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
